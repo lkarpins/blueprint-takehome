@@ -1,7 +1,5 @@
 const Quiz = () => {
-    return (
-
-    )
-}
+  return "Hello from Quiz";
+};
 
 export default Quiz;
